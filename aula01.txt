@@ -1,0 +1,4 @@
+Meu primeiro contato com a vida na terra
+- configuração do Git
+- Add no git
+- Usei o comando commit 
